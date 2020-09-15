@@ -1,0 +1,7 @@
+entities\DatosRequest.class
+restFullBooker\RestFullBookerMain.class
+helper\ReadPropertiData.class
+restFullBooker\RestFullRating.class
+helper\TestEnviron.class
+entities\RatingData.class
+helper\HttpMessageSender.class

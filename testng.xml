@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteApi">
+  <test name="Create List">
+    <classes>
+      <class name="restFullBooker.RestFullBookerMain"/>
+    </classes>
+  </test> 
+  <test name="Rate the films">
+    <classes>
+      <class name="restFullBooker.RestFullRating"/>
+    </classes>
+  </test>
+</suite>
